@@ -15,6 +15,12 @@ public class SecondYearStudy {
         this.lecture = "Python Programming";
         this.homework = 4;
 
+        System.out.println("Second Year Study:");
+        System.out.println("Name of lecture - " + lecture);
+        System.out.println("Number of Teachers " + teacher);
+        System.out.println("Number of students " + student);
+        System.out.println("Number of homework " + student);
+
 
     }
 }

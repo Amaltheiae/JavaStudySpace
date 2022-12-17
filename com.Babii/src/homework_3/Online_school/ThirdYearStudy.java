@@ -14,5 +14,11 @@ public class ThirdYearStudy {
         this.lecture = "Programming courses";
         this.homework = 3;
 
+        System.out.println("Third Year Study:");
+        System.out.println("Name of lecture - " + lecture);
+        System.out.println("Number of Teachers " + teacher);
+        System.out.println("Number of students " + student);
+        System.out.println("Number of homework " + homework);
+
     }
 }
