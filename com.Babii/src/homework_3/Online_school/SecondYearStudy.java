@@ -1,4 +1,4 @@
-package Online_school;
+package homework_3.Online_school;
 
 public class SecondYearStudy {
 

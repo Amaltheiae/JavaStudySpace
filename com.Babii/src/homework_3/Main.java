@@ -1,6 +1,8 @@
-import Online_school.FirstYearStudy;
-import Online_school.SecondYearStudy;
-import Online_school.ThirdYearStudy;
+package homework_3;
+
+import homework_3.Online_school.FirstYearStudy;
+import homework_3.Online_school.SecondYearStudy;
+import homework_3.Online_school.ThirdYearStudy;
 
 public class Main {
 

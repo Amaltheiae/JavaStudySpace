@@ -1,4 +1,4 @@
-package Online_school;
+package homework_3.Online_school;
 
 public class ThirdYearStudy {
     private final int ID = 1;
