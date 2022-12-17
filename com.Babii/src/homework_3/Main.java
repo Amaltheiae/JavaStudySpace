@@ -15,8 +15,7 @@ public class Main {
         ThirdYearStudy thirdYearStudy = new ThirdYearStudy();
         Lecture lectureFirst = new Lecture();
         Lecture lectureSecond = new Lecture();
-
-
+        int a = 10;
 
 
 
