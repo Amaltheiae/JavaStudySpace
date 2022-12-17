@@ -13,6 +13,7 @@ public class Main {
         FirstYearStudy firstYearStudy = new FirstYearStudy();
         SecondYearStudy secondYearStudy = new SecondYearStudy();
         ThirdYearStudy thirdYearStudy = new ThirdYearStudy();
+        Lecture lectureOne = new Lecture();
 
 
 
