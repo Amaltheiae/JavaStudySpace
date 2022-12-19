@@ -15,9 +15,7 @@ public class Main {
         ThirdYearStudy thirdYearStudy = new ThirdYearStudy();
         Lecture lectureOne = new Lecture();
         Lecture lectureTwo = new Lecture();
-
-
-
+        Lecture lectureNumberThree = new Lecture();
 
 
     }
