@@ -13,9 +13,7 @@ public class Main {
         FirstYearStudy firstYearStudy = new FirstYearStudy();
         SecondYearStudy secondYearStudy = new SecondYearStudy();
         ThirdYearStudy thirdYearStudy = new ThirdYearStudy();
-        Lecture lectureFirst = new Lecture();
-        Lecture lectureSecond = new Lecture();
-        int a = 10;
+
 
 
 
