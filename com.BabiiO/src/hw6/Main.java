@@ -18,7 +18,7 @@ public class Main {
 
         System.out.println("Student: " + lectureSix.id);
         
-       System.out.println("Number of objects created :" + count);
+        System.out.println("Number of objects created :" + count);
 
 
     }
