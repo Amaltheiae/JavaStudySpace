@@ -11,6 +11,7 @@ public class Lecture {
     public void showLecture() {
         System.out.println(Arrays.toString(marks));
         System.out.println(marks[2]);
+        System.out.println(marks.length);
 
     }
 }
