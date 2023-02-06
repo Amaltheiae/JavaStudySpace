@@ -1,18 +1,16 @@
-package hw6;
+package olena.babii.hw6;
 
 public class Lecture {
 
     public static int count;
     public String lecture;
-    public int id = Course.id;
+    public int id;
 
 
-    public Lecture(String lecture, int id) {
+    public Lecture(String lecture) {
         this.lecture = lecture;
-        this.id = id;
-
         count++;
-        id = count;
+        this.id = count;
 
     }
 

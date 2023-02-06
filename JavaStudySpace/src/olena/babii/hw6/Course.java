@@ -1,4 +1,4 @@
-package hw6;
+package olena.babii.hw6;
 
 public class Course {
 
