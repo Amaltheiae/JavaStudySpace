@@ -7,7 +7,9 @@ import babii.entities.Person;
 import java.util.Scanner;
 
 public class MainHw11 {
-    private static Course[] javaOnlineSchool = new Course[]{new Course("Java1", 1, 10, 15), new Course("Java2", 1, 10, 15), new Course("Java3", 1, 10, 15)};
+    private static Course[] javaOnlineSchool = new Course[]{new Course("Java1", 1, 10, 15),
+            new Course("Java2", 1, 10, 15),
+            new Course("Java3", 1, 10, 15)};
     public static Person[] personList;
 
     public static void showById(int id) {
