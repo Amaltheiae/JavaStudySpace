@@ -1,7 +1,6 @@
 package olena.babii.hw6;
 
-
-public class Main {
+public class MainHw6 {
 
     public static void main(String[] args) {
 
@@ -16,8 +15,5 @@ public class Main {
 
         System.out.println("Student: " + lectureSix.id);
         System.out.println("Number of objects created :" + Lecture.count);
-
     }
-
-
 }

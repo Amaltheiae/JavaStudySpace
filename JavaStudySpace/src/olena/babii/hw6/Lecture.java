@@ -11,8 +11,5 @@ public class Lecture {
         this.lecture = lecture;
         count++;
         this.id = count;
-
     }
-
-
 }
