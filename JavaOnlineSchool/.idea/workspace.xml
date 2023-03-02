@@ -5,10 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="39823afe-6d17-457f-bf39-8dddc2823fed" name="Changes" comment="hw8">
-      <change afterPath="$PROJECT_DIR$/com.Babii/src/hw9/Lecture.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com.Babii/src/hw9/MainHw9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com.Babii/src/hw9/Marks.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.Babii/src/entities/Course.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.Babii/src/entities/Lecture.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.Babii/src/entities/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.Babii/src/entities/Role.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.Babii/src/hw11/MainHw11.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +20,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Enum" />
       </list>
     </option>
   </component>
@@ -61,7 +63,7 @@
       <recent name="E:\JAVA\git\JavaOnlineSchool\src\Babii" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MainHw9">
+  <component name="RunManager" selected="Application.hw11.MainHw11">
     <configuration name="MainHw11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="babii.hw11.MainHw11" />
       <module name="JavaOnlineSchool" />
@@ -114,13 +116,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="hw11.MainHw11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hw11.MainHw11" />
+      <module name="com.Babii" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hw11.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.hw11.MainHw11" />
         <item itemvalue="Application.MainHw9" />
         <item itemvalue="Application.MainHw11" />
         <item itemvalue="Application.MainHw7" />
         <item itemvalue="Application.MainHw6" />
-        <item itemvalue="Application.MainHw7" />
       </list>
     </recent_temporary>
   </component>
