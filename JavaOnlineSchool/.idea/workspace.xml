@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="39823afe-6d17-457f-bf39-8dddc2823fed" name="Changes" comment="hw8">
-      <change afterPath="$PROJECT_DIR$/com.Babii/src/entities/Course.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com.Babii/src/entities/Lecture.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com.Babii/src/entities/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com.Babii/src/entities/Role.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com.Babii/src/hw11/MainHw11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.Babii/src/hw12/MainHw12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.Babii/src/hw12/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com.Babii/src/entities/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/com.Babii/src/entities/Person.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,8 +17,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Enum" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -63,7 +61,7 @@
       <recent name="E:\JAVA\git\JavaOnlineSchool\src\Babii" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.hw11.MainHw11">
+  <component name="RunManager" selected="Application.MainHw12">
     <configuration name="MainHw11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="babii.hw11.MainHw11" />
       <module name="JavaOnlineSchool" />
@@ -77,12 +75,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainHw6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hw6.MainHw6" />
+    <configuration name="MainHw12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hw12.MainHw12" />
       <module name="com.Babii" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="hw6.*" />
+          <option name="PATTERN" value="hw12.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,11 +129,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MainHw12" />
         <item itemvalue="Application.hw11.MainHw11" />
         <item itemvalue="Application.MainHw9" />
         <item itemvalue="Application.MainHw11" />
         <item itemvalue="Application.MainHw7" />
-        <item itemvalue="Application.MainHw6" />
       </list>
     </recent_temporary>
   </component>
@@ -196,7 +194,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677705706667</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="hw11">
+      <created>1677707043350</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1677707043350</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -213,13 +218,43 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="origin/main" />
+                        <option value="main" />
                       </list>
                     </value>
                   </entry>
                 </map>
               </option>
             </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="main" />
+                </option>
+              </RecentGroup>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="hw11" />
+                </option>
+              </RecentGroup>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="HEAD" />
+                </option>
+              </RecentGroup>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="origin/main" />
+                </option>
+              </RecentGroup>
+            </list>
           </value>
         </entry>
       </map>
@@ -234,6 +269,7 @@
     <MESSAGE value="hw11 changes" />
     <MESSAGE value="hw6" />
     <MESSAGE value="hw8" />
-    <option name="LAST_COMMIT_MESSAGE" value="hw8" />
+    <MESSAGE value="hw11" />
+    <option name="LAST_COMMIT_MESSAGE" value="hw11" />
   </component>
 </project>
