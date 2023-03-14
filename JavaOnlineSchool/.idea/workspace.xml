@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="39823afe-6d17-457f-bf39-8dddc2823fed" name="Changes" comment="hw8">
-      <change afterPath="$PROJECT_DIR$/com.Babii/src/hw12/MainHw12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com.Babii/src/hw12/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/com.Babii/src/entities/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/com.Babii/src/entities/Person.java" afterDir="false" />
+    <list default="true" id="39823afe-6d17-457f-bf39-8dddc2823fed" name="Changes" comment="hw12">
+      <change afterPath="$PROJECT_DIR$/com.Babii/src/hw13/MainHw13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.Babii/src/hw13/MyGeneric.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_01_03_2023_22_30__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_01_03_2023_22_30__Changes_.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,27 +42,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;corretto-17&quot;,
-    &quot;last_opened_file_path&quot;: &quot;E:/JAVA/git/JavaOnlineSchool/com.Babii/src&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "corretto-17",
+    "last_opened_file_path": "E:/JAVA/git/JavaOnlineSchool",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\JAVA\git\JavaOnlineSchool\src\Babii" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MainHw12">
+  <component name="RunManager" selected="Application.MainHw13">
     <configuration name="MainHw11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="babii.hw11.MainHw11" />
       <module name="JavaOnlineSchool" />
@@ -88,12 +89,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainHw7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hw7.MainHw7" />
+    <configuration name="MainHw13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hw13.MainHw13" />
       <module name="com.Babii" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="hw7.*" />
+          <option name="PATTERN" value="hw13.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,11 +130,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MainHw13" />
         <item itemvalue="Application.MainHw12" />
         <item itemvalue="Application.hw11.MainHw11" />
         <item itemvalue="Application.MainHw9" />
         <item itemvalue="Application.MainHw11" />
-        <item itemvalue="Application.MainHw7" />
       </list>
     </recent_temporary>
   </component>
@@ -158,6 +159,8 @@
       <workItem from="1677520892695" duration="1843000" />
       <workItem from="1677700652303" duration="2168000" />
       <workItem from="1677703591702" duration="1695000" />
+      <workItem from="1677762948275" duration="2022000" />
+      <workItem from="1678128517797" duration="1729000" />
     </task>
     <task id="LOCAL-00001" summary="hw 3 and 6">
       <created>1675718540492</created>
