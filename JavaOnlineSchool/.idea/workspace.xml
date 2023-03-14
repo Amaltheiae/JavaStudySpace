@@ -4,11 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="39823afe-6d17-457f-bf39-8dddc2823fed" name="Changes" comment="hw12">
-      <change afterPath="$PROJECT_DIR$/com.Babii/src/hw13/MainHw13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com.Babii/src/hw13/MyGeneric.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_01_03_2023_22_30__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_01_03_2023_22_30__Changes_.xml" afterDir="false" />
+    <list default="true" id="39823afe-6d17-457f-bf39-8dddc2823fed" name="Changes" comment="hw13">
+      <change afterPath="$PROJECT_DIR$/com.Babii/src/entities/Homework.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.Babii/src/hw14/LectureRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.Babii/src/hw14/LecturesInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.Babii/src/hw14/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_01_03_2023_22_30_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_01_03_2023_22_30__Changes_.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com.Babii/src/entities/Lecture.java" beforeDir="false" afterPath="$PROJECT_DIR$/com.Babii/src/entities/Lecture.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com.Babii/src/hw13/MyGeneric.java" beforeDir="false" afterPath="$PROJECT_DIR$/com.Babii/src/hw13/MyGeneric.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +24,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Enum" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -62,13 +68,13 @@
       <recent name="E:\JAVA\git\JavaOnlineSchool\src\Babii" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MainHw13">
-    <configuration name="MainHw11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="babii.hw11.MainHw11" />
-      <module name="JavaOnlineSchool" />
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hw14.Main" />
+      <module name="com.Babii" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="babii.entities.*" />
+          <option name="PATTERN" value="hw14.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,11 +136,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.MainHw13" />
         <item itemvalue="Application.MainHw12" />
         <item itemvalue="Application.hw11.MainHw11" />
         <item itemvalue="Application.MainHw9" />
-        <item itemvalue="Application.MainHw11" />
       </list>
     </recent_temporary>
   </component>
@@ -161,6 +167,9 @@
       <workItem from="1677703591702" duration="1695000" />
       <workItem from="1677762948275" duration="2022000" />
       <workItem from="1678128517797" duration="1729000" />
+      <workItem from="1678530990645" duration="427000" />
+      <workItem from="1678538134008" duration="6998000" />
+      <workItem from="1678818796891" duration="860000" />
     </task>
     <task id="LOCAL-00001" summary="hw 3 and 6">
       <created>1675718540492</created>
@@ -274,5 +283,16 @@
     <MESSAGE value="hw8" />
     <MESSAGE value="hw11" />
     <option name="LAST_COMMIT_MESSAGE" value="hw11" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/com.Babii/src/hw13/MyGeneric.java</url>
+          <line>67</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
