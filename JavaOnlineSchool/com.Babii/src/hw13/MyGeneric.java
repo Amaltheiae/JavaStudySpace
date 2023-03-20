@@ -62,7 +62,7 @@ public class MyGeneric<E> {
             return;
         }
         if (proportions == capacity) {
-            mas = Arrays.copyOfRange(mas, 0, (int) (mas.length * 1.75));
+            mas = Arrays.copyOfRange(mas, 0, (int) (mas.length * 3 / 2)+1);
             capacity = mas.length;
         }
         if (index < proportions) {
